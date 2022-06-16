@@ -26,6 +26,7 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+KONAN-GUESSENND/KONANGUESSENND_URLASSIGNMENT/db.sqlite3
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
